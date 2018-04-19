@@ -70,7 +70,7 @@ Ubuntu
 
 12. **Few more checks**
 
-    1. Currently network port is configured as `3000` in local server. Modify in the file `config/env/development.js` for the port
+    1. Currently network port is configured as `3000` in local server. Modify in the file `config/env/development.js` for the port `80`
     2. `sudo apt install nodejs-legacy`
     3. Check Mongo db is running
 
